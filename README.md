@@ -1,0 +1,1 @@
+This is the source code of the automated script which paints the current date on my contribution chart [on my GitHub profile page](https://github.com/GyDavid22).
